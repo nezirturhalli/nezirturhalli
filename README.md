@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi 👋 
 I'm Nezir from Turkey, and I'm a Junior Software Developer. I'm working on my software skills, and  I really enjoy learning Java and frameworks like Spring Boot.
 
 #### SKILLS AND EXPERIENCES
