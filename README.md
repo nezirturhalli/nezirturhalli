@@ -12,7 +12,6 @@ In my daily life, I research and concentrate on topics such as Spring framework,
 <img align="left" alt="SpringBoot" width="80px" src="https://miro.medium.com/max/600/1*gxXLMIuJDHCH7fwIgEP1cg.png" />
 <img align="left" alt="Spring" width="80px" src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" />
 <img align="left" alt="Git" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
-<img align="left" alt="Bitbucket" width="80px" src="https://poeditor.com/blog/wp-content/uploads/2014/06/bitbucket-logo.png" />
 <img align="left" alt="Docker" width="80px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" />
 <br/>
 <br/>
