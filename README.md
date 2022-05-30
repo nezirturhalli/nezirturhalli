@@ -4,7 +4,7 @@ In my daily life, I research and concentrate on topics such as Spring framework,
 
 - 🔭 I’m currently working on backend software engineer.
 - 👋 I'm currently working on ```Java, Spring Boot , Monolith and Microservice Architecture``` 
-- 🌱 I’m still learning :)
+
 
 #### SKILLS AND EXPERIENCES
 
