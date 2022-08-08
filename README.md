@@ -1,9 +1,9 @@
 # Hi 👋 
 I'm Nezir from Turkey, and I'm a Jr. Software Engineer.
-In my daily life, I research and concentrate on topics such as Java, Spring Boot, Hibernate, Monolithic and Microservice architectures, NoSQL and RDMS. With the knowledge and experience I've gained, I also aim to become a qualified backend engineer.
+In my daily life, I research and concentrate on topics such as Java, AngularJs, Spring Boot, Hibernate, Monolithic and Microservice architectures, NoSQL and RDMS. With the knowledge and experience I've gained, I also aim to become a qualified backend engineer.
 
 - 🔭 I’m currently working on backend software engineer.
-- 👋 I'm currently working on ```Java, Spring Boot, Hibernate, Monolithic and Microservice Architectures.``` 
+- 👋 I'm currently working on ```Java, AngularJs, Spring Boot, Hibernate, Monolithic and Microservice Architectures.``` 
 
 
 #### SKILLS AND EXPERIENCES
