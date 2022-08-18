@@ -11,7 +11,6 @@ In my daily life, I research and concentrate on topics such as Java, AngularJs, 
 <img align="left" alt="Java" width="80px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
 <img align="left" alt="AngularJs" width="80px" src="https://ammarjaved.com/storage/posts/what-is-angularjs.png" />
 <img align="left" alt="SpringBoot" width="80px" src="https://miro.medium.com/max/600/1*gxXLMIuJDHCH7fwIgEP1cg.png" />
-<img align="left" alt="Spring" width="80px" src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" />
 <img align="left" alt="Git" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
 <img align="left" alt="Docker" width="80px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" />
 <br/>
